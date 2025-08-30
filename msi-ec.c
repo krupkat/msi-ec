@@ -2999,6 +2999,7 @@ static struct msi_ec_conf CONF41 __initdata = {
 static const char *ALLOWED_FW_42[] __initconst = {
 	"14L1EMS1.307", // Modern 14 H D13M
 	"14L1EMS1.308",
+	"14L1EMS1.311",
 	NULL
 };
 
